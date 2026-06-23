@@ -1,7 +1,6 @@
 # Hi there, I'm Chandan Kumar 👋
 
 ### BTech Computer Science Student @ PES University, Electronic City Campus
-<p align="left"><img src="https://jklug.work" alt="Profile Views"></p>
 
 ---
 
