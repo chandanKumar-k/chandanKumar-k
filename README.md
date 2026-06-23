@@ -18,12 +18,12 @@
 ![Python]
 ![C]
 
-### ⚙️ Backend & Systems Architecture
+###  Backend & Systems Architecture
 ![Data Structures & Algorithms]
 ![FastAPI]
 ![Flask]
 
-### 🛠️ Developer Tools & Networking
+###  Developer Tools & Networking
 ![Git]
 ![GitHub]
 ![VS Code]
